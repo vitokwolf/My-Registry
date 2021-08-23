@@ -3,11 +3,8 @@
 # Description: 
 My Registry  is a place where you can create a gift registry for any ocasion. Create a list with all the items you want, include name, link to the store, adress where to send and event date. Anyone creating a registry or purchasing a gift will have to create an account and login, all your items are stored and updated as your friends are ourchasing the gifts you want for your special ocassion. 
 
-# Contributions by: 
-* Safiyya Hasanova - https://github.com/hsafiya
-* Iryna Shulim - https://github.com/irynashulim
-* Victor Lupascu - https://github.com/vitokwolf
-* Alex Naumov - https://github.com/anaumov1
+# Deployement
+https://my-registry-2021.herokuapp.com/
 
 
 ## Technologies Used:
@@ -37,6 +34,16 @@ My Registry  is a place where you can create a gift registry for any ocasion. Cr
   This project is s licensed under the [MIT](LICENSE)
   
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-    
-  ## Contributing
-  This is a completed project. No contribution needed.
+  
+  # Contributions by: 
+* Safiyya Hasanova - https://github.com/hsafiya
+* Iryna Shulim - https://github.com/irynashulim
+* Victor Lupascu - https://github.com/vitokwolf
+* Alex Naumov - https://github.com/anaumov1
+  
+  ___
+## Questions?
+Contact Me:
+* Github: https://github.com/vitokwolf
+* Email: sinajeen@gmail.com
+
